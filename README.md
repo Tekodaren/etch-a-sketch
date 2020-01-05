@@ -1,0 +1,1 @@
+Using DOM manipulation I'm going to create an Etch-A-Sketch in the browser.
